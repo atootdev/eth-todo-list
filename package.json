@@ -1,0 +1,12 @@
+{
+  "name": "eth-todo-list",
+  "version": "1.0.0",
+  "description": "A simple todo list on the Ethereum Network",
+  "main": "truffle-config.js",
+  "author": "Andrew Tutia <aktutia@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^2.0.0",
+    "dotenv": "^10.0.0"
+  }
+}
